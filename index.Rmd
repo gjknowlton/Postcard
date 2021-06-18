@@ -1,0 +1,30 @@
+---
+title: "Garrett Knowlton"
+image: "gk.png"
+color1: "#CD7672"
+color2: "#EEB462"
+angle: 130
+links:
+  - label: Twitter
+    url: "https://twitter.com/G_J_Knowlton"
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/garrett-knowlton/"
+  - label: GitHub
+    url: "https://github.com/gjknowlton"
+  - label: Email
+    url: "mailto:gknowlt1@gmail.com"
+output:
+  postcards::onofre
+---
+ 
+I am an ecologist interested in landscape ecology, remote sensing, biodiversity, 
+and climate adaptation. My most recent work with the NASA DEVELOP program involved 
+researching the interactions between burn severity and fuel treatments across 
+northern Colorado. I also have a strong background in quantiative ecology, 
+wildlife movement, and conservation human dimensions research. 
+
+Please get in touch if you are interested in working together! 
+
+
+
+
