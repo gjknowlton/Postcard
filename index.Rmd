@@ -21,7 +21,7 @@ favicon: favicon.ico
 ---
  
 I am an ecologist interested in landscape ecology, remote sensing, biodiversity, 
-and climate adaptation. I earned my B.S. from Michigan State University in 2020. I currently am a research assistant with the National Park Service's Climate Change Response Program, working remotely from Ann Arbor, Michigan.
+and climate adaptation. I earned my B.S. from Michigan State University in May 2020. I am currently a research assistant with the National Park Service's Climate Change Response Program, working remotely from Ann Arbor, Michigan.
 
 Previously I worked with NASA DEVELOP researching the interactions between burn severity and fuel treatments across 
 northern Colorado. I also have a strong background in quantiative ecology, 
