@@ -17,6 +17,7 @@ links:
     url: "https://docs.google.com/document/d/1fSsOUp3qgVL-5yjWGGqWiNERQhktTvo_QxCQ2WfKIkA/edit?usp=sharing"
 output:
   postcards::onofre
+  favicon: favicon.ico 
 ---
  
 I am an ecologist interested in landscape ecology, remote sensing, biodiversity, 
